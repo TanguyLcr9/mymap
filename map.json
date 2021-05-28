@@ -55,7 +55,7 @@
                 {
                  "name":"jitsiInterfaceConfig",
                  "type":"string",
-                 "value":"{ \"DEFAULT_BACKGROUND\": \"#f2ffa1\" }"
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#d83c21\" }"
                 }, 
                 {
                  "name":"jitsiRoom",
@@ -78,7 +78,7 @@
                 {
                  "name":"jitsiInterfaceConfig",
                  "type":"string",
-                 "value":"{ \"DEFAULT_BACKGROUND\": \"#a1ffa4\" }"
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#d83c21\" }"
                 }, 
                 {
                  "name":"jitsiRoom",
@@ -98,7 +98,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":57,
          "x":0,
          "y":0
